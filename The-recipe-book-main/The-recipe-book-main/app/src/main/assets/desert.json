@@ -1,0 +1,386 @@
+{
+  "dessert":[
+    {
+      "Name": "Burnt Sugar Heart",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2023/03/Poza_1-550x367.jpg",
+      "Ingredients": [
+        {
+          "Name": "Eggs",
+          "Quantity": "7",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Brown sugar",
+          "Quantity": "300",
+          "Unit": "g"
+        },
+        {
+          "Name": "Milk",
+          "Quantity": "1000",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Vanilla pod",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Vanilla sugar",
+          "Quantity": "10",
+          "Unit": "g"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        }
+      ],
+      "Instructions": "Since I wanted to give this cream a special heart shape and because the dish is made of heat-resistant material (yena), I prepared the caramel in a metal pan.\n\nHeat the yena dish in the oven at 150 degrees for 10 minutes so that when you pour the caramel, it doesn't crack.\n\nMelt the sugar for the caramel on low heat, stirring occasionally to prevent it from burning. Once the sugar has melted and has a golden color, remove it from the heat.\n\nNow carefully pour the caramel into the yena dish, making sure not to burn yourself. Rotate the dish so the walls and bottom are coated with caramel.\n\nLeave the dish to cool at room temperature.\n\nHow did I prepare the cream for the Burnt Sugar Heart?\nPut the eggs in a bowl, add the rest of the sugar, the seeds from the vanilla pod or the vanilla sugar, and mix everything for a few minutes. Not too much. Add the cold milk and mix for another minute.\n\nHow is the cream baked?\nPour the milk and egg mixture into the caramelized dish, then place it in another dish filled halfway with water, and bake the cream in a bain-marie at 180 degrees for 40-50 minutes, depending on the oven. To allow the eggs to coagulate and to prevent the cream from becoming porous, add cold water every 10-15 minutes because the water in the tray shouldn't boil. This way, the cream will come out smooth, fine, and tasty.\n\nWhen the cream is ready, leave it in the oven for another 5-10 minutes, then take it out and let it cool at room temperature. Once it has cooled, place it in the fridge until the next day.\n\nThe burnt sugar cream is ready when it doesn't run when tilted and detaches slightly from the edges of the dish.\n\nHow do we assemble the cream?\nTo place the burnt sugar cream on a platter, carefully detach the edges from the dish, place a large plate or platter with deep edges on top as a lid, and with a quick movement, flip the cream onto the platter.\n\nDecorate as desired. I was inspired by strawberries."
+    },
+    {
+      "Name": "Orange Crepes",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2023/01/Poza-de-coperta_clatite.jpeg",
+      "Ingredients": [
+        {
+          "Name": "Egg",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Flour",
+          "Quantity": "100",
+          "Unit": "g"
+        },
+        {
+          "Name": "Milk",
+          "Quantity": "70",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Sparkling water",
+          "Quantity": "90",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Butter",
+          "Quantity": "15",
+          "Unit": "g"
+        },
+        {
+          "Name": "Orange zest",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Brown sugar",
+          "Quantity": "10",
+          "Unit": "g"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Butter",
+          "Quantity": "50",
+          "Unit": "g"
+        },
+        {
+          "Name": "Sugar",
+          "Quantity": "25",
+          "Unit": "g"
+        },
+        {
+          "Name": "Orange juice",
+          "Quantity": "1",
+          "Unit": "orange"
+        },
+        {
+          "Name": "Orange",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Blueberries",
+          "Quantity": "10",
+          "Unit": "g"
+        }
+      ],
+      "Instructions": "First, I brought all the ingredients to room temperature, including the butter, which I melted in advance.\n\nIn a bowl, I added the flour, egg, salt, sugar, orange zest, and sparkling water, then mixed everything well with a whisk until all the flour was incorporated and I obtained a thicker consistency.\n\nAt this point, I added the butter and gradually the milk, making sure not to create lumps. The final crepe batter was more liquid, as it should be, so it could easily glide in the crepe pan. If it was too thick, I would have added a little more water or milk, but that wasn't necessary.\n\nI fried the crepes in a crepe pan, which I greased with oil at the beginning, and fried the crepes. I portioned the crepes with a ladle, so I ended up with 5 crepes, enough for 2 people.\n\nFor the sauce, I used a wide pan and melted the butter. After it melted, I added the sugar (I used brown sugar because that's what I had at home), and it only needed a few seconds, up to a minute, before it started to caramelize. At that moment, I added the juice of a large orange (be careful here, as the orange juice will cause a strong boiling reaction).\n\nI stirred a little in the pan with a spatula and let it simmer for a few seconds, then removed the pan from the heat and added a teaspoon of orange zest.\n\nAt this point, I strategically placed the crepes in the pan. I say strategically because I had to fold them nicely so that the sauce would coat all sides of the crepes. I've included a few photos.\n\nAfter folding all the crepes, I left them on low heat for another minute, just enough for the sauce to soak in. I added the orange slices on top, then removed the pan from the heat."
+    },
+    {
+      "Name": "Apple Cake with Blueberries and Mascarpone Cream",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2023/02/Poza_1-3.jpg",
+      "Ingredients": [
+        {
+          "Name": "Apples",
+          "Quantity": "4",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Blueberries",
+          "Quantity": "250",
+          "Unit": "g"
+        },
+        {
+          "Name": "Eggs",
+          "Quantity": "5",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Oil",
+          "Quantity": "70",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Lemon juice",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Orange zest",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Flour",
+          "Quantity": "100",
+          "Unit": "g"
+        },
+        {
+          "Name": "Brown sugar",
+          "Quantity": "60",
+          "Unit": "g"
+        },
+        {
+          "Name": "Butter",
+          "Quantity": "100",
+          "Unit": "g"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Cinnamon",
+          "Quantity": "10",
+          "Unit": "g"
+        },
+        {
+          "Name": "Eggs",
+          "Quantity": "3",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Sugar",
+          "Quantity": "40",
+          "Unit": "g"
+        },
+        {
+          "Name": "Mascarpone",
+          "Quantity": "500",
+          "Unit": "g"
+        },
+        {
+          "Name": "Whipped cream",
+          "Quantity": "250",
+          "Unit": "g"
+        }
+      ],
+      "Instructions": "I washed the apples, peeled them, cored them with a knife to remove the seeds and woody part, drizzled them with lemon juice to prevent oxidation, and in the hollow, I added a pinch of cinnamon, a little brown sugar, a piece of butter, and a few blueberries.\n\nPlace the apples in the tray and bake them for about 15 minutes at 180°C until they soften a bit and the sugar melts. Remove from the oven and let the tray cool.\n\nHow to prepare the cake base?\nSeparate the egg yolks from the whites. Mix the yolks with a pinch of salt, a little lemon juice, and the 7 tablespoons of oil, adding one by one, as you would when making mayonnaise. Slowly, to avoid curdling. Although it's not a big problem if it curdles, it can affect the baking process. Add the lemon juice and orange or lemon zest.\n\nSeparately, beat the egg whites until stiff, add a pinch of salt, brown sugar, and continue beating until the sugar dissolves.\n\nMix the yolk mixture with the beaten egg whites, using upward folding motions to aerate the batter.\n\nNow add the sifted flour and mix everything with circular, upward motions.\n\nIn the tray where we prepared the apples, add the remaining butter and the mixture. The butter will ensure the cake stays moist and tender. Bake at 180°C for 45-60 minutes, depending on the oven. The cake is ready when a toothpick inserted into the cake comes out clean (without batter on it).\n\nHow to prepare the cream?\nMix the 3 egg yolks and the 4 tablespoons of sugar until the sugar is completely dissolved, then add the mascarpone and whipped cream and beat with a mixer until the cream thickens.\n\nYou can also make a version without eggs, but I found this one more delicious.\n\nIt seems like the easiest and quickest cream with multiple uses. At the end of the article, you'll see why I say this.\n\nHow to assemble the cake?\nWhen it's ready, remove the cake from the oven, let it cool, and decorate it with cream and blueberries, or anything else you like, according to your guests' preferences.\n\nIf you have another sponge cake recipe, you can successfully use it. The cake I made doesn't require baking powder.\n\nAnd because I had some cream left over and didn't want to waste anything, I made dessert glasses by layering crushed digestive biscuits and the leftover mascarpone cream."
+    },
+    {
+      "Name": "Ruffled Pie",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2022/08/Poza-de-coperta_placinta.jpeg",
+      "Ingredients": [
+        {
+          "Name": "Phyllo pastry sheets",
+          "Quantity": "400",
+          "Unit": "g"
+        },
+        {
+          "Name": "Butter",
+          "Quantity": "120",
+          "Unit": "g"
+        },
+        {
+          "Name": "Almond extract",
+          "Quantity": "50",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Vanilla extract",
+          "Quantity": "50",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Sugar",
+          "Quantity": "175",
+          "Unit": "g"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Mixed fruits",
+          "Quantity": "40",
+          "Unit": "g"
+        },
+        {
+          "Name": "Eggs",
+          "Quantity": "4",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Milk",
+          "Quantity": "200",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Whipped cream",
+          "Quantity": "200",
+          "Unit": "g"
+        }
+      ],
+      "Instructions": "First, I prepared the tray where I would make the pie by greasing it well with butter and placing a sheet of parchment paper inside.\n\nI took the phyllo sheets one by one and greased each one with melted butter on both sides. The first two sheets were laid flat on the tray to act as a base, and the rest I folded like a fan and arranged them as 'ruffled' as possible.\n\nThis pie requires two stages of baking: the first stage is baking the sheets separately, and the second stage is baking the sheets together with the cream. If the first stage isn't done, the sheets would remain raw and become soggy from the cream.\n\nFor the first stage, after greasing and arranging all the sheets, I put them in the oven at 175°C without ventilation for 20 minutes or until all the sheets turned golden without burning.\n\nPreparation of the cream for the ruffled pie:\nFor the cream, I mixed the following ingredients in this order: whole eggs, sugar, whipped cream, milk, a pinch of salt, and almond and vanilla extracts (to taste). From my experience, the almond extract combined with the fruit flavors is absolutely wonderful. I mixed everything with a hand whisk. When I poured the cream over the baked sheets, I used a kitchen sieve to ensure the cream was as smooth as possible.\n\nAfter pouring the cream, I arranged all the fruits in the bowl, like strawberries, blueberries, and raspberries. Of course, you can use any fruits you have available.\n\nFor the second stage of baking, I baked the pie at 175°C for 30 minutes, plus another 15 minutes at 190°C. At the end, I checked the cream to ensure it was well set.\n\nHow did I serve this dessert?\nI took the pie out of the oven and let it cool. In my opinion, this ruffled pie is mega delicious, perfect for a tasty picnic, easy to cut once cooled, and can be served with some nuts, pistachios, and powdered sugar on top."
+    },
+    {
+      "Name": "Chocolate Cake with Ganache, Caramel, and Nut Praline",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2022/02/1.-Tort-varianta-1-1-1536x1024.jpg",
+      "Ingredients": [
+        {
+          "Name": "Chocolate",
+          "Quantity": "900",
+          "Unit": "g"
+        },
+        {
+          "Name": "Butter",
+          "Quantity": "450",
+          "Unit": "g"
+        },
+        {
+          "Name": "Eggs",
+          "Quantity": "6",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Flour",
+          "Quantity": "150",
+          "Unit": "g"
+        },
+        {
+          "Name": "Sugar",
+          "Quantity": "960",
+          "Unit": "g"
+        },
+        {
+          "Name": "Cocoa powder",
+          "Quantity": "2",
+          "Unit": "tablespoons"
+        },
+        {
+          "Name": "Dark chocolate ganache",
+          "Quantity": "450",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Whipped cream",
+          "Quantity": "1000",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Water",
+          "Quantity": "250",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Nut praline",
+          "Quantity": "100",
+          "Unit": "g"
+        },
+        {
+          "Name": "Roasted nuts",
+          "Quantity": "100",
+          "Unit": "g"
+        }
+      ],
+      "Instructions": "Preparation:\nCake\nIn a saucepan, over low heat, I melted the chocolate and butter, then let them cool slightly. Meanwhile, in a stand mixer, I whipped the eggs with the two types of sugar until their volume tripled and they became very airy. I reduced the speed and incorporated the chocolate mixture, and finally, the flour and cocoa powder, sifted. I divided the mixture into two 20 cm diameter round pans lined with parchment paper and baked them for 30 minutes at 160°C. I let them cool completely in the pan, then refrigerated them for another hour. I cut each cake into two, resulting in four future layers for the cake.\n\nCaramel\nI made the caramel by melting all the sugar in water. I boiled it without stirring until it turned a beautiful, intense amber color. I removed the sugar from the heat, added the cream, and finally the sea salt. The caramel needs at least a few hours to reach the consistency suitable for a cake; I made it the day before, and during that time, it became thick and creamy.\n\nGanache\nFor the ganache, I heated the cream almost to a boil and poured it over the finely chopped chocolate. I waited a few minutes, then blended the cream until smooth. After it cooled completely, I aerated it with an electric whisk, just like whipped cream is usually made.\n\nPraline\nI experimented with two slightly different types of praline: for the first, I caramelized just the sugar, which, once it reached the desired caramelization, I spread on an oiled sheet of parchment paper and sprinkled with chopped nuts and sea salt flakes. For the second, I caramelized the sugar with water and incorporated chopped nuts before spreading it on paper. The result was two types of praline, the first being much more transparent and slightly more brittle.\n\nPraline with nuts\nWith all the elements prepared and cooled, I placed a quarter of the chocolate ganache on each cake layer. On three of the layers, I also added a generous layer of caramel, then refrigerated the cakes for half an hour.\n\nChocolate Cake with Ganache, Caramel, and Nut Praline.\nThis step was very important because the dense and heavier-than-sponge cake layers shouldn't press too hard on the cream, causing it to ooze out. I stacked the layers, keeping the one without caramel for last. I broke pieces of praline and stuck them dramatically into the top layer of the cake for a spectacular effect.\n\nWith solid roots in the kitchens of our mothers and grandmothers, this cake can only be received as a true declaration of love, especially in the month of love.\n\nI hope you prepare my recipe for Chocolate Cake with Ganache, Caramel, and Nut Praline for someone very special, and that this already classic combination of flavors becomes one you return to whenever you need a hug and a little chocolate."
+    },
+    {
+      "Name": "Chocolate Soufflé with Figs and Almonds",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2022/02/Sufleu_ciocolata_05-1-1024x757.jpg",
+      "Ingredients": [
+        {
+          "Name": "Chocolate",
+          "Quantity": "200",
+          "Unit": "g"
+        },
+        {
+          "Name": "Eggs",
+          "Quantity": "3",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Sugar",
+          "Quantity": "50",
+          "Unit": "g"
+        },
+        {
+          "Name": "Coffee",
+          "Quantity": "50",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Butter",
+          "Quantity": "25",
+          "Unit": "g"
+        },
+        {
+          "Name": "Almond flakes",
+          "Quantity": "50",
+          "Unit": "g"
+        },
+        {
+          "Name": "Figs",
+          "Quantity": "5",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Whipped cream",
+          "Quantity": "100",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Dark chocolate",
+          "Quantity": "80",
+          "Unit": "g"
+        },
+        {
+          "Name": "Butter",
+          "Quantity": "25",
+          "Unit": "g"
+        },
+        {
+          "Name": "Sugar",
+          "Quantity": "50",
+          "Unit": "g"
+        }
+      ],
+      "Instructions": "I preheated the oven to 200°C, weighed the ingredients, and cut the dried figs into six pieces, although they can be cut smaller. I lightly toasted the almond flakes in a pan and set them aside.\n\nUsing a brush, I greased the soufflé molds with butter and dusted them with granulated sugar, although powdered sugar could also be used.\n\nI used 2 ramekins with a 10 cm diameter (180 ml) and a heat-resistant mug.\n\nPreparation of the chocolate soufflé with figs and almonds:\nOver the chocolate, I added the butter and coffee and placed them in a bain-marie until the chocolate melted. I mixed the composition well and let it cool. Meanwhile, I separated the eggs and whipped the egg whites with a pinch of salt. I added the 50 grams of sugar to the egg whites and continued to whip until the whisk left marks in the egg whites (whipped to about 75%).\n\nI returned to the chocolate, which had cooled enough to add the egg yolks, figs, and half of the almond flakes.\n\nPreparation\nI folded the beaten egg whites into the chocolate mixture in two stages, using circular, upward motions.\n\nI filled the molds halfway, then added the remaining almond flakes on top. I continued filling the molds and leveled the tops with a spatula.\n\nBaking\nI baked the soufflés for 13-14 minutes at 200°C. During this time, I made the chocolate sauce – the pièce de résistance of this dish.\n\nPreparation of the chocolate sauce:\nI heated the whipped cream, added the chocolate, and mixed until smooth. I made sure not to boil the cream too much to avoid scorching the chocolate and ruining the sauce.\n\nI removed the chocolate soufflés with figs and almonds from the oven, made a hole in the center using a teaspoon, and poured in the chocolate sauce.\n\nThe chocolate soufflé with figs and almonds has the texture of a chocolate pudding, soft and moist inside.\n\nThis chocolate soufflé is a declaration of love through which I wish to keep inspiration alive. A dessert that expresses love, desire, and appreciation for loved ones."
+    }
+  ]
+}

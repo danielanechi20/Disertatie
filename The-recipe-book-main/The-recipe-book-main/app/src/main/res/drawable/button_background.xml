@@ -1,0 +1,19 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+
+            <corners android:radius="4dp" /> <!-- Colțuri rotunjite -->
+            <stroke
+                android:color="#AAAAAA"
+            android:width="6dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+           <corners android:radius="4dp" /> <!-- Colțuri rotunjite -->
+            <stroke
+                android:color="#AAAAAA"
+            android:width="6dp" /> <!-- Grosimea marginilor -->
+        </shape>
+    </item>
+</selector>

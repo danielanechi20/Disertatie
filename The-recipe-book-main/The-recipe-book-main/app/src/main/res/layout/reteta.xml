@@ -1,0 +1,191 @@
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <!-- Main Content (Recipe Image and Name) -->
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- Recipe Image -->
+        <ImageView
+            android:id="@+id/imagine"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/retete" />
+
+        <!-- Recipe Name -->
+        <TextView
+            android:id="@+id/Nume"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Nume reteta"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <!-- Share Button -->
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/export"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:layout_margin="16dp"
+            android:src="@drawable/exp"
+            android:contentDescription="Share"
+            app:backgroundTint="@color/purple_200" />
+
+        <!-- Vertical Label for Ingredients on the left -->
+        <TextView
+            android:id="@+id/label_ingredients"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_gravity="center_vertical|start"
+            android:rotation="270"
+            android:padding="8dp"
+            android:background="@color/purple_200"
+            android:text="Ingredients"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:gravity="center" />
+
+        <!-- Vertical Label for Preparation on the right -->
+        <TextView
+            android:id="@+id/label_preparation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_gravity="center_vertical|end"
+            android:rotation="90"
+            android:padding="8dp"
+            android:background="@color/purple_200"
+            android:text="Preparation"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:gravity="center" />
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+    <!-- Left Drawer (Ingredients) -->
+    <LinearLayout
+        android:id="@+id/left_drawer_ingredients"
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:orientation="vertical"
+        android:background="#292929"
+        android:padding="16dp"
+        android:layout_marginTop="250dp"> <!-- Start from bottom of image -->
+
+        <!-- Ingredients Title -->
+        <TextView
+            android:id="@+id/titluing"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Ingrediente"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <!-- Ingredients List -->
+        <androidx.core.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/ingrediente"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="• 1 cup Flour\n• 2 Eggs\n• 1 tbsp Olive oil"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+        </androidx.core.widget.NestedScrollView>
+
+        <!-- Servings Control -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <Button
+                android:id="@+id/decrease"
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:text="-"
+                android:textSize="22sp"
+                android:backgroundTint="#292929"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:id="@+id/portii"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp" />
+
+            <Button
+                android:id="@+id/increase"
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:text="+"
+                android:textSize="22sp"
+                android:backgroundTint="#292929"
+                android:textColor="@color/white" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Right Drawer (Preparation) -->
+    <LinearLayout
+        android:id="@+id/right_drawer_preparation"
+        android:layout_width="280dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="end"
+        android:orientation="vertical"
+        android:background="#292929"
+        android:padding="16dp"
+        android:layout_marginTop="250dp"> <!-- Start from bottom of image -->
+
+        <!-- Preparation Title -->
+        <TextView
+            android:id="@+id/modprep"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Mod de preparare"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <!-- Preparation Instructions -->
+        <androidx.core.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/preparare"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1. Preheat oven to 180°C.\n2. Mix ingredients.\n3. Bake for 25 minutes."
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+        </androidx.core.widget.NestedScrollView>
+
+    </LinearLayout>
+
+</androidx.drawerlayout.widget.DrawerLayout>

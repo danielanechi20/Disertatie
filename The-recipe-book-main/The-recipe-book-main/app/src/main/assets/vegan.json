@@ -1,0 +1,232 @@
+{
+  "vegan": [
+    {
+      "Name": "Asparagus Risotto",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2022/07/cover-foto-2-1024x568.jpg",
+      "Ingredients": [
+        {
+          "Name": "Rice",
+          "Quantity": "100",
+          "Unit": "g"
+        },
+        {
+          "Name": "Red onion",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Green onion",
+          "Quantity": "1",
+          "Unit": "bunch"
+        },
+        {
+          "Name": "Carrot",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Kapia pepper",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Avocado",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Olive oil",
+          "Quantity": "20",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Garlic",
+          "Quantity": "3",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Asparagus",
+          "Quantity": "1",
+          "Unit": "bunch"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Pepper",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Water",
+          "Quantity": "300",
+          "Unit": "ml"
+        }
+      ],
+      "Instructions": "Here's how I made this risotto:\nThis recipe is not only simple but also vegan. The ingredients are easy to find and minimal.\n\nI started by chopping the carrot, red onion, kapia pepper, and asparagus. I heated olive oil in a pot and sautéed the vegetables. Then, I added the rice and stirred until it became translucent. Gradually, I added water.\n\nIn the end, I added salt, pepper, chopped green onion, and mashed avocado for creaminess.\n\nThe result was a creamy risotto with rich vegetable flavors."
+    },
+    {
+      "Name": "Baked Beans",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2021/11/foto-5--1024x576.jpg",
+      "Ingredients": [
+        {
+          "Name": "White beans",
+          "Quantity": "400",
+          "Unit": "g"
+        },
+        {
+          "Name": "Honey",
+          "Quantity": "1",
+          "Unit": "tablespoon"
+        },
+        {
+          "Name": "Mustard",
+          "Quantity": "1",
+          "Unit": "tablespoon"
+        },
+        {
+          "Name": "Olive oil",
+          "Quantity": "20",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Garlic",
+          "Quantity": "6",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Pepper",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Fresh thyme",
+          "Quantity": "1",
+          "Unit": "bunch"
+        }
+      ],
+      "Instructions": "I preheated the oven to 190°C.\n\nIn a bowl, I mixed honey, mustard, olive oil, salt, and pepper to make a dressing.\n\nI combined the beans with the dressing, garlic, and thyme in a baking dish and baked for about 30 minutes until lightly golden and the garlic was roasted.\n\nThis baked bean dish can be enjoyed in many ways. It's slightly sweet and filling, perfect for cool days. Paired with caramelized onions, it's a simple and comforting dish."
+    },
+    {
+      "Name": "Stuffed Peppers with Chickpeas and Lentils",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2022/03/Ardei_umpluti_05-1536x1152.jpeg",
+      "Ingredients": [
+        {
+          "Name": "Soaked chickpeas",
+          "Quantity": "250",
+          "Unit": "g"
+        },
+        {
+          "Name": "Lentils",
+          "Quantity": "150",
+          "Unit": "g"
+        },
+        {
+          "Name": "Coconut milk",
+          "Quantity": "400",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Bell peppers",
+          "Quantity": "6",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Onion",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Carrots",
+          "Quantity": "2",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Tomato sauce",
+          "Quantity": "300",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Garlic",
+          "Quantity": "5",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Fresh spinach",
+          "Quantity": "100",
+          "Unit": "g"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Paprika",
+          "Quantity": "10",
+          "Unit": "g"
+        },
+        {
+          "Name": "Cumin",
+          "Quantity": "10",
+          "Unit": "g"
+        },
+        {
+          "Name": "Nutmeg",
+          "Quantity": "10",
+          "Unit": "g"
+        },
+        {
+          "Name": "Oil",
+          "Quantity": "50",
+          "Unit": "ml"
+        }
+      ],
+      "Instructions": "How I prepared the vegetables:\nI started by washing the lentils and soaking them. I grated the carrots, diced the onion, and crushed the garlic. I sliced the bell peppers horizontally and placed them in an oiled baking dish.\n\nI heated oil in a pan, added spices, then sautéed the onion and carrots. I added tomato sauce and simmered for 20 minutes until the vegetables softened.\n\nI mixed in the chickpeas, cooked lentils, coconut milk, and garlic. After 10 minutes of cooking, I added spinach and filled the peppers with the mixture.\n\nI baked the stuffed peppers at 200°C for 15 minutes. These vegan stuffed peppers are delicious and filling."
+    },
+    {
+      "Name": "Carrot Cream Soup with Orange",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2022/11/Supa_crema_de_morcovi_cu_portocala_06-1536x1153.jpeg",
+      "Ingredients": [
+        {
+          "Name": "Carrots",
+          "Quantity": "8",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Potatoes",
+          "Quantity": "4",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Onion",
+          "Quantity": "2",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Orange",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Olive oil",
+          "Quantity": "20",
+          "Unit": "ml"
+        }
+      ],
+      "Instructions": "I prepped the ingredients for the soup:\nI peeled and sliced the carrots, tossed them in olive oil and salt, and roasted them at 200°C for 20 minutes.\n\nI peeled and diced the potatoes and onions. In a pot, I sautéed the onion in olive oil and salt for 2 minutes, then added the potatoes and water. I cooked them until tender.\n\nOnce the roasted carrots were done, I added them to the pot and let everything simmer for 5 more minutes.\n\nI blended the soup until smooth and added freshly squeezed orange juice and orange zest. The soup is warm and comforting, perfect for winter."
+    }
+  ]
+}

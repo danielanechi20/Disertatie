@@ -1,0 +1,44 @@
+{
+   "categories":[
+      {
+         "Name":"Beef",
+         "Thumb":"https:\/\/www.themealdb.com\/images\/category\/beef.png",
+         "Description":"Beef is a source of high-quality protein and essential nutrients."
+      },
+      {
+         "Name":"Chicken",
+         "Thumb":"https:\/\/www.themealdb.com\/images\/category\/chicken.png",
+         "Description":"Chicken stands between vegetables and other types of meat, as it provides a lot of protein packed with few calories."
+      },
+      {
+         "Name":"Lamb",
+         "Thumb":"https:\/\/www.themealdb.com\/images\/category\/lamb.png",
+         "Description":"Lamb is an excellent source of protein and has a low content of fat and cholesterol."
+      },
+      {
+         "Name":"Pork",
+         "Thumb":"https:\/\/www.themealdb.com\/images\/category\/pork.png",
+         "Description":"Pork is the richest in protein, with beneficial effects on the skin, eyes, bones, nervous system, and mental performance."
+      },
+      {
+         "Name": "Seafood",
+         "Thumb": "https:\/\/www.themealdb.com\/images\/category\/seafood.png",
+         "Description": "Seafood includes any form of sea life considered edible by humans."
+      },
+      {
+         "Name":"Pasta",
+         "Thumb":"https:\/\/www.themealdb.com\/images\/category\/pasta.png",
+         "Description":"Pasta is a staple food in traditional Italian cuisine."
+      },
+      {
+         "Name": "Vegetarian",
+         "Thumb": "https:\/\/www.themealdb.com\/images\/category\/vegetarian.png",
+         "Description": "Vegetarianism is the practice of abstaining from consuming meat. Veganism is the practice of refraining from using animal products."
+      },
+      {
+         "Name":"Dessert",
+         "Thumb":"https:\/\/www.themealdb.com\/images\/category\/dessert.png",
+         "Description":"The term dessert can apply to many sweets, such as cookies, cakes, ice cream, pastries, pies, puddings, sweet soups, and tarts."
+      }
+   ]
+}

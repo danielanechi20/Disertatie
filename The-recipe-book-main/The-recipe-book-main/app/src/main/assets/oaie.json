@@ -1,0 +1,240 @@
+{
+  "lamb": [
+    {
+      "Name": "Oven-baked Lamb Chops with Mint Pesto",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2021/04/poza-finala-1.jpeg",
+      "Ingredients": [
+        {
+          "Name": "Lamb chops",
+          "Quantity": "10",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Mint",
+          "Quantity": "1",
+          "Unit": "bunch"
+        },
+        {
+          "Name": "Fresh coriander",
+          "Quantity": "1",
+          "Unit": "bunch"
+        },
+        {
+          "Name": "Rosemary",
+          "Quantity": "1",
+          "Unit": "bunch"
+        },
+        {
+          "Name": "Cloves",
+          "Quantity": "3",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Fennel seeds",
+          "Quantity": "1",
+          "Unit": "teaspoon"
+        },
+        {
+          "Name": "Pepper",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Cumin seeds",
+          "Quantity": "1",
+          "Unit": "teaspoon"
+        },
+        {
+          "Name": "Greek yogurt",
+          "Quantity": "30",
+          "Unit": "g"
+        },
+        {
+          "Name": "Chili pepper",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Olive oil",
+          "Quantity": "20",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Mint",
+          "Quantity": "1",
+          "Unit": "bunch"
+        },
+        {
+          "Name": "Basil leaves",
+          "Quantity": "2",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Green garlic",
+          "Quantity": "1",
+          "Unit": "bunch"
+        },
+        {
+          "Name": "Green onion",
+          "Quantity": "1",
+          "Unit": "bunch"
+        },
+        {
+          "Name": "Pistachios",
+          "Quantity": "50",
+          "Unit": "g"
+        },
+        {
+          "Name": "Olive oil",
+          "Quantity": "50",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Pepper",
+          "Quantity": "5",
+          "Unit": "g"
+        }
+      ],
+      "Instructions": "Marinated meat is much tastier than plain meat because it absorbs all the flavors and cooks faster than usual. \nI started by preparing the spices. I heated the seeds and peppercorns in a pan for two minutes over medium heat to release their flavors. Then I crushed them in a mortar, added the chopped herbs, and continued pounding until I got a paste. I added the yogurt, mixed well, and set the mortar aside.\nI carefully removed the fat from the lamb chops and cleaned the top of each bone. I placed the meat in a bowl and coated it with the mixture. I pressed the meat well to allow the flavors to penetrate deeply. I covered the bowl and left it in the fridge overnight.\nI toasted the pistachios for 2-3 minutes at 180°C. Then I mixed them in a food processor with salt, garlic, green onions, and mint and basil leaves. I gradually added the oil while mixing until I got a paste. I seasoned the pesto with freshly ground pepper and lemon juice and set it aside.\nBefore cooking the lamb chops, I roasted some beets for a salad and prepared ingredients for the garnish: boiled floury potatoes cut into cubes and roasted 2-3 heads of garlic cut in half.\nI removed the meat from the fridge and let it reach room temperature. I preheated the oven to 160°C and heated a grill pan on the stove.\nI took the chops out of the marinade, sprinkled them with chopped chili, and brushed them with olive oil. I grilled them for 3 minutes on one side and 2 on the other over medium-high heat. Don’t forget to occasionally spray the meat with olive oil. Cooking time depends on the thickness of the chops. If they were thicker, I would have cooked them for an additional 4-5 minutes in the pan.\nI immediately transferred the lamb chops to a stainless steel tray with a detachable grill and lid and baked them for 15 minutes until well done. I salted the meat and let it rest under the lid for 4-5 minutes before serving.\nWhile the meat was in the oven, I prepared a garlic mashed potato (skordalia) and a roasted beet salad with raspberry vinegar and pumpkin oil. These lamb chops with mint pesto are a delight on the plate! You’ll love them!"
+    },
+    {
+      "Name": "Flavored Lamb with Pomegranate Sauce and Roasted Vegetables",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2021/02/20210215_141850-01-1-1536x1152.jpeg",
+      "Ingredients": [
+        {
+          "Name": "Lamb shank",
+          "Quantity": "4",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Pomegranate syrup",
+          "Quantity": "250",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Chicken broth",
+          "Quantity": "400",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Onion",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Carrot",
+          "Quantity": "2",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Celery",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Parsnip",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Pepper",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Butter",
+          "Quantity": "30",
+          "Unit": "g"
+        },
+        {
+          "Name": "Flour",
+          "Quantity": "30",
+          "Unit": "g"
+        },
+        {
+          "Name": "Eggplant",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Zucchini",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Bell pepper",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Cherry tomatoes",
+          "Quantity": "6",
+          "Unit": "pcs"
+        }
+      ],
+      "Instructions": "I thoroughly cleaned the lamb shanks, rubbed them with salt, and coated them with pomegranate syrup. Then I left them to marinate in the fridge. They should marinate for at least an hour, but I left them overnight. This dish is not in a hurry.\n\nI took the shanks out of the fridge a while before baking them to let them rest and absorb the flavors. I placed all the vegetables, cut into large pieces, in a pot, added chicken broth, and covered it. I left it in the oven preheated to 140°C for 3 to 4 hours.\n\nWith plenty of time until the lamb is ready, you can prepare almost any garnish. It goes perfectly with couscous, boiled potatoes slightly browned in a pan, or even simple rice. I chose roasted vegetables: an eggplant, a zucchini, a bell pepper, and some cherry tomatoes found in the fridge. The eggplant and zucchini, cut into suitable pieces and salted, need 30 minutes to an hour to dry out.\n\nWhen the kitchen is filled with the aroma of roasted lamb and the meat starts to fall off the bone, it's almost ready. I took the pieces of meat out of the pot, placed them in a smaller dish, and drizzled them with 2-3 tablespoons of the remaining sauce. I baked them at 200°C for 5-7 minutes, just to give them more color.\n\nMeanwhile, I strained all the remaining vegetables in the sauce and simmered it until reduced by about a third (if there’s any fat on top, it's best to remove it with a spoon).\n\nIncorporate flour into soft butter and whisk into the sauce. It’s done when the sauce’s surface is clear and coats a spoon with a fine layer. I adjusted the seasoning and poured the sauce generously over the flavored lamb on the plate.\n\nThis is the recipe for flavored lamb in pomegranate sauce with roasted vegetables."
+    },
+    {
+      "Name": "Lamb Chop with Butter and Brandy Sauce",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2022/02/cotlete_berbecut_sos_unt_si_vinars-1536x820.png",
+      "Ingredients": [
+        {
+          "Name": "Lamb chops",
+          "Quantity": "5",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Butter",
+          "Quantity": "400",
+          "Unit": "g"
+        },
+        {
+          "Name": "Brandy",
+          "Quantity": "100",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Salad greens",
+          "Quantity": "1",
+          "Unit": "bunch"
+        },
+        {
+          "Name": "Olive oil",
+          "Quantity": "20",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Lemon juice",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Pepper",
+          "Quantity": "5",
+          "Unit": "g"
+        }
+      ],
+      "Instructions": "The lamb chops I’m preparing here have a bit of fat on the outside, which I gently score with a knife.\n\nI then place the chops fat-side down in a pan. The temperature shouldn’t be too high because I want to melt a bit of the fat to fry the meat in. I fry the chops for 3-4 minutes on each side while preheating the oven to 200°C.\n\nThe chops then go into the oven for 3-4 minutes if I want them medium-rare. I let the meat rest on a plate. This last step is essential for a tender, juicy steak.\n\nWe also need a handful of fresh salad greens and a wonderful sauce. This is where deglazing the pan, butter, and brandy come in.\n\nHow to deglaze a pan\nIn general, pans glaze, meaning they accumulate residue, when you fry something in them. These residues, dissolved with a bit of water or good-quality alcohol, can be transformed into a fantastic sauce with a little skill. I pour a generous splash of brandy into the pan, take it off the heat, let it bubble, and as the liquid cools, I add a piece of butter. The butter must be cold, straight from the fridge (or even the freezer if you prefer). The colder the butter, the faster the emulsion forms, turning into our sauce.\n\nFinally, I place the lamb chops on a bed of salad greens, for which I’ve made a simple, delicious dressing: olive oil, lemon juice, salt, and pepper."
+    }
+  ]
+}

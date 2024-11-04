@@ -1,0 +1,309 @@
+{
+	"beef":[
+		{
+			"Name": "Oven-baked Beef Shank with Creamy Polenta",
+			"Thumb": "https://adihadean.ro/wp-content/uploads/2022/04/Poza-coperta_rasol-de-vita-1536x1152.jpeg",
+			"Ingredients": [
+				{
+					"Name": "Beef shank",
+					"Quantity": "550",
+					"Unit": "g"
+				},
+				{
+					"Name": "Chicken broth",
+					"Quantity": "350",
+					"Unit": "ml"
+				},
+				{
+					"Name": "Butter",
+					"Quantity": "30",
+					"Unit": "g"
+				},
+				{
+					"Name": "Green onions",
+					"Quantity": "3",
+					"Unit": "bunches"
+				},
+				{
+					"Name": "Parsnip",
+					"Quantity": "1",
+					"Unit": "pc"
+				},
+				{
+					"Name": "Carrots",
+					"Quantity": "3",
+					"Unit": "pcs"
+				},
+				{
+					"Name": "Celery",
+					"Quantity": "1",
+					"Unit": "pc"
+				},
+				{
+					"Name": "Garlic",
+					"Quantity": "4",
+					"Unit": "pcs"
+				},
+				{
+					"Name": "Flour",
+					"Quantity": "20",
+					"Unit": "g"
+				},
+				{
+					"Name": "Oil",
+					"Quantity": "2",
+					"Unit": "ml"
+				},
+				{
+					"Name": "Salt",
+					"Quantity": "5",
+					"Unit": "g"
+				},
+				{
+					"Name": "Pepper",
+					"Quantity": "5",
+					"Unit": "g"
+				},
+				{
+					"Name": "Rosemary",
+					"Quantity": "1",
+					"Unit": "bunch"
+				},
+				{
+					"Name": "Thyme",
+					"Quantity": "1",
+					"Unit": "bunch"
+				}
+			],
+			"Instructions": "I started by taking the meat out of the fridge 40 minutes before cooking to bring it to room temperature. I washed and dried the beef shank with paper towels to ensure it had a dry surface. I heated a pan with some oil on medium-high heat and dusted the beef with flour. I tied the meat to keep it compact, then seared it on both sides until golden brown. I added butter, garlic cloves, and aromatic herbs to the pan and let them cook for a minute. I preheated the oven to 170℃. I placed the seared meat in a heatproof dish with the broth, green onions, parsnip, carrots, celery, and some water to cover the meat slightly. I covered the dish with aluminum foil and cooked it for 2 hours."
+		},
+		{
+			"Name": "Beef Wellington",
+			"Thumb": "https://adihadean.ro/wp-content/uploads/2022/04/1.-Wellington-coperta-1536x1027.jpg",
+			"Ingredients": [
+				{
+					"Name": "Beef tenderloin",
+					"Quantity": "1",
+					"Unit": "pc"
+				},
+				{
+					"Name": "Olive oil",
+					"Quantity": "20",
+					"Unit": "ml"
+				},
+				{
+					"Name": "Thyme",
+					"Quantity": "1",
+					"Unit": "bunch"
+				},
+				{
+					"Name": "Mustard",
+					"Quantity": "10",
+					"Unit": "g"
+				},
+				{
+					"Name": "Mushrooms",
+					"Quantity": "15",
+					"Unit": "pcs"
+				},
+				{
+					"Name": "Red onion",
+					"Quantity": "1",
+					"Unit": "pc"
+				},
+				{
+					"Name": "Thin slices of ham",
+					"Quantity": "200",
+					"Unit": "g"
+				},
+				{
+					"Name": "Salt",
+					"Quantity": "5",
+					"Unit": "g"
+				},
+				{
+					"Name": "Pepper",
+					"Quantity": "5",
+					"Unit": "g"
+				},
+				{
+					"Name": "Puff pastry",
+					"Quantity": "200",
+					"Unit": "g"
+				},
+				{
+					"Name": "Egg",
+					"Quantity": "1",
+					"Unit": "pc"
+				}
+			],
+			"Instructions": "I used the center cut of the beef tenderloin for even cooking. I seared the seasoned beef in a hot pan to seal in the juices and ensure it remained tender. I baked the beef in the oven at 170℃ for about 10 minutes until the center temperature reached 50℃. Once out of the oven, I brushed the beef with Dijon mustard while still hot, wrapped it tightly in cling film, and refrigerated it for 15 minutes. I chopped mushrooms finely and sautéed them with red onion in olive oil. I laid out a sheet of cling film, placed thin ham slices overlapping slightly, spread the mushroom mixture on top, and wrapped the beef in this layer. After refrigerating again, I wrapped the beef in puff pastry, brushed it with egg wash, and baked it at 200℃ for about an hour until the pastry turned golden. After resting for 15 minutes, it was ready to serve."
+		},
+		{
+			"Name": "Oven-baked Beef Ribs in Red Wine",
+			"Thumb": "https://adihadean.ro/wp-content/uploads/2022/03/1.-Preparat-final-coperta-1536x1027.jpg",
+			"Ingredients": [
+				{
+					"Name": "Beef ribs",
+					"Quantity": "400",
+					"Unit": "g"
+				},
+				{
+					"Name": "Olive oil",
+					"Quantity": "20",
+					"Unit": "ml"
+				},
+				{
+					"Name": "Red wine (dry)",
+					"Quantity": "750",
+					"Unit": "ml"
+				},
+				{
+					"Name": "Beef broth",
+					"Quantity": "300",
+					"Unit": "ml"
+				},
+				{
+					"Name": "Garlic",
+					"Quantity": "6",
+					"Unit": "pcs"
+				},
+				{
+					"Name": "Fresh herbs",
+					"Quantity": "15",
+					"Unit": "g"
+				},
+				{
+					"Name": "Salt",
+					"Quantity": "5",
+					"Unit": "g"
+				},
+				{
+					"Name": "Pepper",
+					"Quantity": "5",
+					"Unit": "g"
+				},
+				{
+					"Name": "Celery",
+					"Quantity": "2",
+					"Unit": "pcs"
+				},
+				{
+					"Name": "Milk",
+					"Quantity": "500",
+					"Unit": "ml"
+				},
+				{
+					"Name": "Butter",
+					"Quantity": "250",
+					"Unit": "g"
+				},
+				{
+					"Name": "Carrots",
+					"Quantity": "10",
+					"Unit": "pcs"
+				},
+				{
+					"Name": "Beetroot",
+					"Quantity": "3",
+					"Unit": "pcs"
+				},
+				{
+					"Name": "Horseradish",
+					"Quantity": "2",
+					"Unit": "pcs"
+				}
+			],
+			"Instructions": "I started by searing the seasoned beef ribs in olive oil until golden brown. I transferred them to a roasting pan, covered them with red wine, and cooked them in the oven at 200℃ for about 4 hours, adding beef broth halfway through. Meanwhile, I prepared the vegetables: I glazed carrots in olive oil, butter, and honey and roasted them for 30 minutes. I made a creamy celery puree by boiling celery, blending it with butter and milk, and seasoning it. I also pickled beets and added horseradish for a spicy kick. I served the beef ribs with the celery puree, roasted carrots, and pickled beets."
+		},
+		{
+			"Name": "Sirloin Steak with Blanched Vegetables",
+			"Thumb": "https://adihadean.ro/wp-content/uploads/2022/05/Vrabioara_cu_legume_blansate_07-1536x1306.jpeg",
+			"Ingredients": [
+				{
+					"Name": "Sirloin steak",
+					"Quantity": "1",
+					"Unit": "pc"
+				},
+				{
+					"Name": "Salt",
+					"Quantity": "5",
+					"Unit": "g"
+				},
+				{
+					"Name": "Pepper",
+					"Quantity": "5",
+					"Unit": "g"
+				},
+				{
+					"Name": "Butter",
+					"Quantity": "50",
+					"Unit": "g"
+				},
+				{
+					"Name": "Cauliflower",
+					"Quantity": "1",
+					"Unit": "pc"
+				},
+				{
+					"Name": "Broccoli",
+					"Quantity": "1",
+					"Unit": "pc"
+				},
+				{
+					"Name": "Carrot",
+					"Quantity": "1",
+					"Unit": "pc"
+				}
+			],
+			"Instructions": "I let the sirloin steak rest at room temperature for about 25-30 minutes before cooking. I blanched the vegetables (carrots, cauliflower, and broccoli) in boiling salted water for 2 minutes, then sautéed them in butter for 5 minutes. I seasoned the sirloin steak with salt and pepper and seared it in a hot grill pan with butter, cooking it for 5 minutes on each side. I served the steak with the blanched vegetables."
+		},
+		{
+			"Name": "Beef with Cinnamon Sauce",
+			"Thumb": "https://adihadean.ro/wp-content/uploads/2021/05/20210509_210448-01-1536x1152.jpeg",
+			"Ingredients": [
+				{
+					"Name": "Beef",
+					"Quantity": "1",
+					"Unit": "kg"
+				},
+				{
+					"Name": "Red wine (dry)",
+					"Quantity": "200",
+					"Unit": "ml"
+				},
+				{
+					"Name": "Cinnamon",
+					"Quantity": "40",
+					"Unit": "g"
+				},
+				{
+					"Name": "Beef stock",
+					"Quantity": "200",
+					"Unit": "ml"
+				},
+				{
+					"Name": "Butter",
+					"Quantity": "30",
+					"Unit": "g"
+				},
+				{
+					"Name": "Flour",
+					"Quantity": "10",
+					"Unit": "g"
+				},
+				{
+					"Name": "Salt",
+					"Quantity": "5",
+					"Unit": "g"
+				},
+				{
+					"Name": "Pepper",
+					"Quantity": "5",
+					"Unit": "g"
+				}
+			],
+			"Instructions": "I started by boiling cubed potatoes in milk with a cinnamon stick until soft, then mashed them with butter to create a cinnamon-flavored puree. I seared beef steaks, then deglazed the pan with red wine and beef stock, adding cinnamon for flavor. After simmering, I added butter mixed with flour to thicken the sauce. I served the beef with the cinnamon sauce alongside the mashed potatoes."
+		}
+	]
+}

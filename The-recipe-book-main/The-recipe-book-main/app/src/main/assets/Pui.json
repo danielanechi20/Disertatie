@@ -1,0 +1,304 @@
+{
+  "chicken": [
+    {
+      "Name": "Chicken with Mustard and Porcini Mushrooms",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2022/10/Poza-de-coperta_pui-cu-mustar-1024x768.jpeg",
+      "Ingredients": [
+        {
+          "Name": "Chicken breast",
+          "Quantity": "250",
+          "Unit": "g"
+        },
+        {
+          "Name": "Wholegrain mustard",
+          "Quantity": "20",
+          "Unit": "g"
+        },
+        {
+          "Name": "Mushrooms",
+          "Quantity": "25",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Water",
+          "Quantity": "150",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Cream",
+          "Quantity": "70",
+          "Unit": "g"
+        },
+        {
+          "Name": "Red onion",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Garlic",
+          "Quantity": "3",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Pepper",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Oil",
+          "Quantity": "20",
+          "Unit": "ml"
+        }
+      ],
+      "Instructions": "I started by cutting the mushrooms (porcini) into large pieces so that their flavor would stand out. I heated a non-stick pan with sunflower oil and added the mushrooms. I cooked them until they turned golden brown. Meanwhile, I sliced the red onion and chicken breast into strips.\n\nOnce the mushrooms were golden, I added the onion and chicken to the pan. I sautéed them for about 6 minutes before adding the cream, water, mustard, and minced garlic. I let everything simmer over medium-low heat for about 15 minutes until the sauce thickened. I seasoned with salt and pepper to taste. \n\nI served this seasonal dish with toasted bread and sprinkled some rosemary on top."
+    },
+    {
+      "Name": "Roast Chicken with Herbs and Garlic",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2022/08/1.-Coperta-1024x684.jpg",
+      "Ingredients": [
+        {
+          "Name": "Whole chicken",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Dried herbs",
+          "Quantity": "10",
+          "Unit": "g"
+        },
+        {
+          "Name": "Dry white wine",
+          "Quantity": "50",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Garlic",
+          "Quantity": "10",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "White potatoes",
+          "Quantity": "15",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Milk",
+          "Quantity": "300",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Butter",
+          "Quantity": "100",
+          "Unit": "g"
+        },
+        {
+          "Name": "Cherry compote",
+          "Quantity": "100",
+          "Unit": "ml"
+        }
+      ],
+      "Instructions": "I prepared a dry rub with paprika, fresh ground pepper, dried herbs (rosemary, thyme, oregano, basil), garlic, and lemon zest. I rubbed the mixture over the chicken, inside and out, and let it marinate overnight. An hour before cooking, I took it out of the fridge to bring it to room temperature.\n\nI stuffed the chicken with lemon slices, fresh herbs (basil, tarragon, parsley), and salt, then roasted it at 180°C for about an hour. In the last 10 minutes, I used the oven's ventilation function to create a crisp, golden crust.\n\nFor the creamy mashed potatoes, I boiled the potatoes in salted water until tender, drained them, and mashed them with hot milk and butter. The texture was silky and airy.\n\nI served the chicken whole, allowing everyone to pick their favorite pieces, alongside the mashed potatoes and cherry compote. It was a nostalgic, heartwarming family meal."
+    },
+    {
+      "Name": "Teriyaki Chicken with Roasted Potatoes",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2022/05/cover-foto-1024x570.jpg",
+      "Ingredients": [
+        {
+          "Name": "Red potatoes",
+          "Quantity": "4",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Whole chicken",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Butter",
+          "Quantity": "50",
+          "Unit": "g"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Pepper",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Parsley",
+          "Quantity": "1",
+          "Unit": "bunch"
+        },
+        {
+          "Name": "Garlic",
+          "Quantity": "3",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Teriyaki sauce",
+          "Quantity": "50",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Chili sauce",
+          "Quantity": "50",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Ginger",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Orange peel",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Lemon",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Water",
+          "Quantity": "100",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Red onion",
+          "Quantity": "2",
+          "Unit": "pcs"
+        }
+      ],
+      "Instructions": "I preheated the oven to 180°C and prepared a large baking tray with parchment paper.\n\nFor the chicken, I singed off any remaining feathers and placed it in the roasting dish. I stuffed it with orange and lemon slices and parsley, then rubbed the exterior with teriyaki sauce, chili sauce, salt, pepper, and ground ginger.\n\nI added some water to the dish and roasted the chicken.\n\nFor the potatoes, I roasted them, peeled them, cut them in half, and topped them with butter, salt, pepper, garlic, and chopped fresh parsley. I also roasted two red onions alongside them for extra flavor.\n\nThe meal was simple and delicious."
+    },
+    {
+      "Name": "Chicken with Lime and Peanut Sauce",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2019/05/Poza7-1-1024x683.jpg",
+      "Ingredients": [
+        {
+          "Name": "Chicken breast",
+          "Quantity": "3",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Lime",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Chili peppers",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Garlic",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Peanut butter",
+          "Quantity": "1",
+          "Unit": "tablespoon"
+        },
+        {
+          "Name": "Cream",
+          "Quantity": "10",
+          "Unit": "g"
+        },
+        {
+          "Name": "Olive oil",
+          "Quantity": "10",
+          "Unit": "ml"
+        }
+      ],
+      "Instructions": "Step 1: I lightly scored the chicken breast with a knife and seasoned it generously with salt and pepper. I then drizzled olive oil directly on the chicken.\n\nStep 2: I placed the chicken in a pan and grated lime zest over it, cooking each side for 4 minutes. After cooking, I set the chicken aside.\n\nStep 3: I chopped a chili pepper and garlic, sautéed them in the pan, and added the chicken back in along with peanut butter and cream. I baked everything in a preheated oven at low heat for 25 minutes.\n\nStep 4: I served the chicken with lime zest and chili slices on top. It was so flavorful that no garnish was needed, but it pairs well with saffron rice, sautéed vegetables, or a fresh salad."
+    },
+    {
+      "Name": "Italian Chicken with Spring Salad",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2019/03/Poza-8-1024x683.jpg",
+      "Ingredients": [
+        {
+          "Name": "Chicken breast",
+          "Quantity": "2",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Mozzarella",
+          "Quantity": "100",
+          "Unit": "g"
+        },
+        {
+          "Name": "Tomatoes",
+          "Quantity": "10",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Basil leaves",
+          "Quantity": "10",
+          "Unit": "pcs"
+        },
+        {
+          "Name": "Ramsons leaves",
+          "Quantity": "10",
+          "Unit": "g"
+        },
+        {
+          "Name": "Green onions",
+          "Quantity": "1",
+          "Unit": "bunch"
+        },
+        {
+          "Name": "Radishes",
+          "Quantity": "1",
+          "Unit": "bunch"
+        },
+        {
+          "Name": "Baby spinach",
+          "Quantity": "10",
+          "Unit": "g"
+        },
+        {
+          "Name": "Sesame seeds",
+          "Quantity": "10",
+          "Unit": "g"
+        },
+        {
+          "Name": "Salt",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Pepper",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Olive oil",
+          "Quantity": "3",
+          "Unit": "tablespoons"
+        },
+        {
+          "Name": "Balsamic vinegar",
+          "Quantity": "10",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Chili flakes",
+          "Quantity": "3",
+          "Unit": "g"
+        }
+      ],
+      "Instructions": "Step 1: I preheated the oven to 180°C. While the oven heated, I prepared the chicken by trimming off the fat, seasoning it with salt and pepper, and cutting pockets into each breast.\n\nStep 2: I stuffed the pockets with diced mozzarella, basil, and sundried tomatoes. I secured the chicken with toothpicks, sprinkled it with chili flakes, drizzled some of the oil from the sundried tomatoes, and baked it for 25-30 minutes.\n\nStep 3: While the chicken cooked, I prepared a colorful spring salad with fresh ramsons, spinach, radishes, and sesame seeds, dressed with olive oil and balsamic vinegar.\n\nStep 4: After baking, I served the chicken alongside the vibrant salad."
+    }
+  ]
+}

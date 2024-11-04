@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Licentaincercarea1" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Culori principale pentru aplicație -->
+        <item name="colorPrimary">#4CAF50</item> <!-- Verde deschis (prosperitate, sănătate) -->
+        <item name="colorPrimaryDark">#388E3C</item> <!-- Verde mai închis pentru tonuri mai grave -->
+        <item name="colorAccent">#FFEB3B</item> <!-- Galben (energie, luminozitate) -->
+
+        <!-- Fundaluri și culori text -->
+        <item name="android:colorBackground">#121212</item> <!-- Fundal negru pentru a evidenția elementele UI -->
+        <item name="android:textColorPrimary">#FFFFFF</item> <!-- Text alb pentru lizibilitate pe fundal închis -->
+        <item name="android:textColorSecondary">#B0BEC5</item> <!-- Gri deschis pentru text secundar -->
+
+        <!-- Stiluri pentru butoane -->
+        <item name="buttonStyle">@style/ButtonStyle</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:backgroundTint">#4CAF50</item> <!-- Fundal verde deschis -->
+        <item name="android:textColor">#FFFFFF</item> <!-- Text alb -->
+        <item name="android:padding">12dp</item> <!-- Spațiu interior -->
+        <item name="android:minHeight">48dp</item> <!-- Înălțime minimă pentru buton -->
+        <item name="android:minWidth">64dp</item> <!-- Lățime minimă pentru buton -->
+        <item name="android:layout_margin">8dp</item> <!-- Spațiu exterior -->
+        <item name="android:background">?attr/selectableItemBackground</item> <!-- Ripple effect standard -->
+        <item name="android:fontFamily">@font/roboto_slab_thin</item> <!-- Font modern și curat -->
+        <item name="android:elevation">4dp</item> <!-- Adaugă efect de umbră -->
+    </style>
+</resources>

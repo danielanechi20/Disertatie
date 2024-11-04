@@ -1,0 +1,794 @@
+{
+  "categories": [
+    {
+      "type": "meat and cold cuts",
+      "names": [
+        {
+          "Name": "Beef shank",
+          "Unit": "g",
+          "Calories_per_unit": 250
+        },
+        {
+          "Name": "Beef tenderloin",
+          "Unit": "pc",
+          "Calories_per_unit": 500
+        },
+        {
+          "Name": "Beef ribs",
+          "Unit": "g",
+          "Calories_per_unit": 350
+        },
+        {
+          "Name": "Beef sirloin steak",
+          "Unit": "pc",
+          "Calories_per_unit": 450
+        },
+        {
+          "Name": "Beef",
+          "Unit": "kg",
+          "Calories_per_unit": 2500
+        },
+        {
+          "Name": "Chicken breast",
+          "Unit": "pc",
+          "Calories_per_unit": 165
+        },
+        {
+          "Name": "Whole chicken",
+          "Unit": "pc",
+          "Calories_per_unit": 1200
+        },
+        {
+          "Name": "Thin slices of ham",
+          "Unit": "g",
+          "Calories_per_unit": 150
+        },
+        {
+          "Name": "Fresh pork ham",
+          "Unit": "g",
+          "Calories_per_unit": 200
+        },
+        {
+          "Name": "Bacon",
+          "Unit": "g",
+          "Calories_per_unit": 541
+        },
+        {
+          "Name": "Lamb chops",
+          "Unit": "pc",
+          "Calories_per_unit": 250
+        },
+        {
+          "Name": "Lamb shank",
+          "Unit": "pieces",
+          "Calories_per_unit": 300
+        },
+        {
+          "Name": "Mutton chops",
+          "Unit": "pc",
+          "Calories_per_unit": 280
+        },
+        {
+          "Name": "Aged beef sirloin",
+          "Unit": "g",
+          "Calories_per_unit": 300
+        },
+        {
+          "Name": "Boneless pork belly",
+          "Unit": "g",
+          "Calories_per_unit": 500
+        },
+        {
+          "Name": "Pork ribs",
+          "Unit": "g",
+          "Calories_per_unit": 350
+        },
+        {
+          "Name": "Pork shoulder",
+          "Unit": "kg",
+          "Calories_per_unit": 2200
+        },
+        {
+          "Name": "Turkey breast",
+          "Unit": "pc",
+          "Calories_per_unit": 135
+        },
+        {
+          "Name": "Salami",
+          "Unit": "g",
+          "Calories_per_unit": 300
+        }
+      ]
+    },
+    {
+      "type": "dairy and eggs",
+      "names": [
+        {
+          "Name": "Sour cream",
+          "Unit": "g",
+          "Calories_per_unit": 200
+        },
+        {
+          "Name": "Milk",
+          "Unit": "ml",
+          "Calories_per_unit": 50
+        },
+        {
+          "Name": "Butter",
+          "Unit": "g",
+          "Calories_per_unit": 717
+        },
+        {
+          "Name": "Mozzarella",
+          "Unit": "g",
+          "Calories_per_unit": 280
+        },
+        {
+          "Name": "Egg",
+          "Unit": "pc",
+          "Calories_per_unit": 78
+        },
+        {
+          "Name": "Kefir",
+          "Unit": "ml",
+          "Calories_per_unit": 60
+        },
+        {
+          "Name": "Greek yogurt",
+          "Unit": "g",
+          "Calories_per_unit": 59
+        },
+        {
+          "Name": "Parmesan",
+          "Unit": "g",
+          "Calories_per_unit": 431
+        },
+        {
+          "Name": "Mascarpone",
+          "Unit": "g",
+          "Calories_per_unit": 429
+        },
+        {
+          "Name": "Whipped cream",
+          "Unit": "g",
+          "Calories_per_unit": 257
+        },
+        {
+          "Name": "Cheddar cheese",
+          "Unit": "g",
+          "Calories_per_unit": 403
+        },
+        {
+          "Name": "Feta cheese",
+          "Unit": "g",
+          "Calories_per_unit": 264
+        }
+      ]
+    },
+    {
+      "type": "drinks",
+      "names": [
+        {
+          "Name": "Dry white wine",
+          "Unit": "ml",
+          "Calories_per_unit": 82
+        },
+        {
+          "Name": "Dry red wine",
+          "Unit": "ml",
+          "Calories_per_unit": 85
+        },
+        {
+          "Name": "Rosé wine",
+          "Unit": "ml",
+          "Calories_per_unit": 80
+        },
+        {
+          "Name": "Dark beer",
+          "Unit": "ml",
+          "Calories_per_unit": 43
+        },
+        {
+          "Name": "Brandy",
+          "Unit": "ml",
+          "Calories_per_unit": 220
+        },
+        {
+          "Name": "Whiskey",
+          "Unit": "ml",
+          "Calories_per_unit": 250
+        },
+        {
+          "Name": "Vodka",
+          "Unit": "ml",
+          "Calories_per_unit": 231
+        }
+      ]
+    },
+    {
+      "type": "fruits, vegetables, and nuts",
+      "names": [
+        {
+          "Name": "Orange",
+          "Unit": "pc",
+          "Calories_per_unit": 62
+        },
+        {
+          "Name": "Orange peel",
+          "Unit": "pc",
+          "Calories_per_unit": 15
+        },
+        {
+          "Name": "Orange juice",
+          "Unit": "orange",
+          "Calories_per_unit": 112
+        },
+        {
+          "Name": "Kiwi",
+          "Unit": "pc",
+          "Calories_per_unit": 42
+        },
+        {
+          "Name": "Cantaloupe",
+          "Unit": "pc",
+          "Calories_per_unit": 53
+        },
+        {
+          "Name": "Blueberries",
+          "Unit": "g",
+          "Calories_per_unit": 57
+        },
+        {
+          "Name": "Apples",
+          "Unit": "pc",
+          "Calories_per_unit": 95
+        },
+        {
+          "Name": "Mushrooms",
+          "Unit": "pc",
+          "Calories_per_unit": 15
+        },
+        {
+          "Name": "Honey mushrooms",
+          "Unit": "g",
+          "Calories_per_unit": 22
+        },
+        {
+          "Name": "Garlic",
+          "Unit": "pc",
+          "Calories_per_unit": 4
+        },
+        {
+          "Name": "White potatoes",
+          "Unit": "pc",
+          "Calories_per_unit": 130
+        },
+        {
+          "Name": "Red potatoes",
+          "Unit": "pc",
+          "Calories_per_unit": 125
+        },
+        {
+          "Name": "Sweet potatoes",
+          "Unit": "pc",
+          "Calories_per_unit": 103
+        },
+        {
+          "Name": "Purple potatoes",
+          "Unit": "pc",
+          "Calories_per_unit": 110
+        },
+        {
+          "Name": "Ginger",
+          "Unit": "pc",
+          "Calories_per_unit": 80
+        },
+        {
+          "Name": "Lemon",
+          "Unit": "pc",
+          "Calories_per_unit": 17
+        },
+        {
+          "Name": "Lime",
+          "Unit": "pc",
+          "Calories_per_unit": 20
+        },
+        {
+          "Name": "Lemon juice",
+          "Unit": "pc",
+          "Calories_per_unit": 12
+        },
+        {
+          "Name": "Tomatoes",
+          "Unit": "pc",
+          "Calories_per_unit": 22
+        },
+        {
+          "Name": "Tomato paste",
+          "Unit": "ml",
+          "Calories_per_unit": 32
+        },
+        {
+          "Name": "Oregano",
+          "Unit": "bunch",
+          "Calories_per_unit": 5
+        },
+        {
+          "Name": "Parsley",
+          "Unit": "bunch",
+          "Calories_per_unit": 5
+        },
+        {
+          "Name": "Hot peppers",
+          "Unit": "pc",
+          "Calories_per_unit": 18
+        },
+        {
+          "Name": "Green onions",
+          "Unit": "bunch",
+          "Calories_per_unit": 10
+        },
+        {
+          "Name": "Onion",
+          "Unit": "pc",
+          "Calories_per_unit": 44
+        },
+        {
+          "Name": "Red onion",
+          "Unit": "pc",
+          "Calories_per_unit": 46
+        },
+        {
+          "Name": "Green garlic",
+          "Unit": "bunch",
+          "Calories_per_unit": 15
+        },
+        {
+          "Name": "Asparagus",
+          "Unit": "bunch",
+          "Calories_per_unit": 20
+        },
+        {
+          "Name": "Olives",
+          "Unit": "g",
+          "Calories_per_unit": 115
+        },
+        {
+          "Name": "Radish",
+          "Unit": "bunch",
+          "Calories_per_unit": 18
+        },
+        {
+          "Name": "Baby spinach",
+          "Unit": "g",
+          "Calories_per_unit": 23
+        },
+        {
+          "Name": "Carrot",
+          "Unit": "pc",
+          "Calories_per_unit": 25
+        },
+        {
+          "Name": "Broccoli",
+          "Unit": "pc",
+          "Calories_per_unit": 55
+        },
+        {
+          "Name": "Cauliflower",
+          "Unit": "pc",
+          "Calories_per_unit": 25
+        },
+        {
+          "Name": "Horseradish",
+          "Unit": "pc",
+          "Calories_per_unit": 13
+        },
+        {
+          "Name": "Beetroot",
+          "Unit": "pc",
+          "Calories_per_unit": 58
+        },
+        {
+          "Name": "Celery",
+          "Unit": "pc",
+          "Calories_per_unit": 10
+        },
+        {
+          "Name": "Parsnip",
+          "Unit": "pc",
+          "Calories_per_unit": 75
+        },
+        {
+          "Name": "Parsley root",
+          "Unit": "pc",
+          "Calories_per_unit": 80
+        },
+        {
+          "Name": "Eggplant",
+          "Unit": "pc",
+          "Calories_per_unit": 20
+        },
+        {
+          "Name": "Zucchini",
+          "Unit": "pc",
+          "Calories_per_unit": 33
+        },
+        {
+          "Name": "Bell peppers",
+          "Unit": "pc",
+          "Calories_per_unit": 24
+        },
+        {
+          "Name": "Cherry tomatoes",
+          "Unit": "pc",
+          "Calories_per_unit": 3
+        },
+        {
+          "Name": "Lettuce",
+          "Unit": "bunch",
+          "Calories_per_unit": 15
+        },
+        {
+          "Name": "Avocado",
+          "Unit": "pc",
+          "Calories_per_unit": 240
+        },
+        {
+          "Name": "Fresh herbs",
+          "Unit": "g",
+          "Calories_per_unit": 23
+        },
+        {
+          "Name": "Pistachios",
+          "Unit": "g",
+          "Calories_per_unit": 560
+        },
+        {
+          "Name": "Walnuts",
+          "Unit": "g",
+          "Calories_per_unit": 654
+        },
+        {
+          "Name": "Pomegranate syrup",
+          "Unit": "ml",
+          "Calories_per_unit": 270
+        },
+        {
+          "Name": "Banana",
+          "Unit": "pc",
+          "Calories_per_unit": 105
+        },
+        {
+          "Name": "Strawberries",
+          "Unit": "g",
+          "Calories_per_unit": 32
+        }
+      ]
+    },
+    {
+      "type": "groceries",
+      "names": [
+        {
+          "Name": "Flour",
+          "Unit": "g",
+          "Calories_per_unit": 364
+        },
+        {
+          "Name": "Sugar",
+          "Unit": "g",
+          "Calories_per_unit": 387
+        },
+        {
+          "Name": "Brown sugar",
+          "Unit": "g",
+          "Calories_per_unit": 380
+        },
+        {
+          "Name": "Honey",
+          "Unit": "g",
+          "Calories_per_unit": 304
+        },
+        {
+          "Name": "Oil",
+          "Unit": "ml",
+          "Calories_per_unit": 884
+        },
+        {
+          "Name": "Baking powder",
+          "Unit": "g",
+          "Calories_per_unit": 53
+        },
+        {
+          "Name": "Baking soda",
+          "Unit": "g",
+          "Calories_per_unit": 0
+        },
+        {
+          "Name": "Olive oil",
+          "Unit": "ml",
+          "Calories_per_unit": 884
+        },
+        {
+          "Name": "Vinegar",
+          "Unit": "ml",
+          "Calories_per_unit": 21
+        },
+        {
+          "Name": "Balsamic vinegar",
+          "Unit": "ml",
+          "Calories_per_unit": 88
+        },
+        {
+          "Name": "Sparkling water",
+          "Unit": "ml",
+          "Calories_per_unit": 0
+        },
+        {
+          "Name": "Puff pastry",
+          "Unit": "g",
+          "Calories_per_unit": 406
+        },
+        {
+          "Name": "Filo pastry sheets",
+          "Unit": "g",
+          "Calories_per_unit": 375
+        },
+        {
+          "Name": "Spaghetti",
+          "Unit": "g",
+          "Calories_per_unit": 158
+        },
+        {
+          "Name": "Rigatoni pasta",
+          "Unit": "g",
+          "Calories_per_unit": 160
+        },
+        {
+          "Name": "Rice",
+          "Unit": "g",
+          "Calories_per_unit": 130
+        },
+        {
+          "Name": "Quinoa",
+          "Unit": "g",
+          "Calories_per_unit": 120
+        }
+      ]
+    },
+    {
+      "type": "seafood and fish",
+      "names": [
+        {
+          "Name": "Mussels",
+          "Unit": "g",
+          "Calories_per_unit": 172
+        },
+        {
+          "Name": "Saint Jacques scallops",
+          "Unit": "g",
+          "Calories_per_unit": 111
+        },
+        {
+          "Name": "Octopus",
+          "Unit": "kg",
+          "Calories_per_unit": 1640
+        },
+        {
+          "Name": "Salmon",
+          "Unit": "g",
+          "Calories_per_unit": 208
+        },
+        {
+          "Name": "Shrimp",
+          "Unit": "g",
+          "Calories_per_unit": 99
+        },
+        {
+          "Name": "Tuna",
+          "Unit": "g",
+          "Calories_per_unit": 132
+        }
+      ]
+    },
+    {
+      "type": "spices and seasonings",
+      "names": [
+        {
+          "Name": "Cinnamon",
+          "Unit": "g",
+          "Calories_per_unit": 247
+        },
+        {
+          "Name": "Thyme",
+          "Unit": "bunch",
+          "Calories_per_unit": 7
+        },
+        {
+          "Name": "Lovage",
+          "Unit": "bunch",
+          "Calories_per_unit": 12
+        },
+        {
+          "Name": "Rosemary",
+          "Unit": "bunch",
+          "Calories_per_unit": 5
+        },
+        {
+          "Name": "Chili flakes",
+          "Unit": "g",
+          "Calories_per_unit": 318
+        },
+        {
+          "Name": "Paprika",
+          "Unit": "g",
+          "Calories_per_unit": 282
+        },
+        {
+          "Name": "Sesame seeds",
+          "Unit": "g",
+          "Calories_per_unit": 573
+        },
+        {
+          "Name": "Basil leaves",
+          "Unit": "pc",
+          "Calories_per_unit": 1
+        },
+        {
+          "Name": "Wild garlic leaves",
+          "Unit": "g",
+          "Calories_per_unit": 72
+        },
+        {
+          "Name": "Bay leaves",
+          "Unit": "pc",
+          "Calories_per_unit": 6
+        },
+        {
+          "Name": "Dill",
+          "Unit": "bunch",
+          "Calories_per_unit": 4
+        },
+        {
+          "Name": "Mint",
+          "Unit": "bunch",
+          "Calories_per_unit": 8
+        },
+        {
+          "Name": "Fresh coriander",
+          "Unit": "bunch",
+          "Calories_per_unit": 4
+        },
+        {
+          "Name": "Cloves",
+          "Unit": "pc",
+          "Calories_per_unit": 6
+        },
+        {
+          "Name": "Fennel seeds",
+          "Unit": "tsp",
+          "Calories_per_unit": 6
+        },
+        {
+          "Name": "Cumin seeds",
+          "Unit": "tsp",
+          "Calories_per_unit": 8
+        },
+        {
+          "Name": "Coriander seeds",
+          "Unit": "tbsp",
+          "Calories_per_unit": 6
+        },
+        {
+          "Name": "Dried herbs",
+          "Unit": "g",
+          "Calories_per_unit": 305
+        },
+        {
+          "Name": "Herbs de Provence",
+          "Unit": "g",
+          "Calories_per_unit": 305
+        },
+        {
+          "Name": "Mustard seeds",
+          "Unit": "g",
+          "Calories_per_unit": 508
+        },
+        {
+          "Name": "Vanilla pod",
+          "Unit": "pc",
+          "Calories_per_unit": 12
+        },
+        {
+          "Name": "Vanilla sugar",
+          "Unit": "g",
+          "Calories_per_unit": 400
+        },
+        {
+          "Name": "Almond extract",
+          "Unit": "ml",
+          "Calories_per_unit": 288
+        },
+        {
+          "Name": "Vanilla extract",
+          "Unit": "ml",
+          "Calories_per_unit": 288
+        },
+        {
+          "Name": "Black pepper",
+          "Unit": "g",
+          "Calories_per_unit": 251
+        },
+        {
+          "Name": "Nutmeg",
+          "Unit": "g",
+          "Calories_per_unit": 525
+        }
+      ]
+    },
+    {
+      "type": "other",
+      "names": [
+        {
+          "Name": "Chicken broth",
+          "Unit": "ml",
+          "Calories_per_unit": 15
+        },
+        {
+          "Name": "Beef broth",
+          "Unit": "ml",
+          "Calories_per_unit": 20
+        },
+        {
+          "Name": "Beef stock",
+          "Unit": "ml",
+          "Calories_per_unit": 15
+        },
+        {
+          "Name": "Cherry compote",
+          "Unit": "ml",
+          "Calories_per_unit": 120
+        },
+        {
+          "Name": "Chili sauce",
+          "Unit": "ml",
+          "Calories_per_unit": 30
+        },
+        {
+          "Name": "Teriyaki sauce",
+          "Unit": "ml",
+          "Calories_per_unit": 100
+        },
+        {
+          "Name": "Truffle pesto",
+          "Unit": "jar",
+          "Calories_per_unit": 700
+        },
+        {
+          "Name": "Peanut butter",
+          "Unit": "tbsp",
+          "Calories_per_unit": 94
+        },
+        {
+          "Name": "Mustard",
+          "Unit": "g",
+          "Calories_per_unit": 66
+        },
+        {
+          "Name": "Soy sauce",
+          "Unit": "ml",
+          "Calories_per_unit": 53
+        },
+        {
+          "Name": "Mayonnaise",
+          "Unit": "g",
+          "Calories_per_unit": 680
+        },
+        {
+          "Name": "Ketchup",
+          "Unit": "ml",
+          "Calories_per_unit": 112
+        }
+      ]
+    }
+  ]
+}

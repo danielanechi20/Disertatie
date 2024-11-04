@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Disertatie</string>
+
+    //activity_main
+    <string name="title">The recipe book</string>
+    <string name="subtitle">Your modern recipe book with calories included.</string>
+    <string name="butonbrowse">Browse recipes!</string>
+    <string name="butonsignin">Sign In</string>
+    <string name="butonsignup">Sign Up</string>
+
+    //categories_screen
+    <string name="intrebare">De ce iti este pofta azi?</string>
+    <string name="item_title">Title</string>
+    <string name="item_des">Description</string>
+    <string name="random">Nu stiu!</string>
+
+    //navigation bottom menu
+    <string name="categorii">Categorii</string>
+    <string name="retete">Toate retele</string>
+    <string name="favorie">Reetele mele</string>
+
+    <string-array name="duration_options">
+        <item>Days</item>
+        <item>Months</item>
+    </string-array>
+    <string-array name="time_period_options">
+        <item>Last Week</item>
+        <item>Last Month</item>
+        <item>Last 3 Months</item>
+    </string-array>
+</resources>

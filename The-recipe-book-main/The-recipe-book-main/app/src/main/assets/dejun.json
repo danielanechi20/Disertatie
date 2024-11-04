@@ -1,0 +1,71 @@
+{
+  "breakfast": [
+    {
+      "Name": "Mini pancakes for breakfast with fruit",
+      "Thumb": "https://adihadean.ro/wp-content/uploads/2021/07/cover-foto-2.jpg",
+      "Ingredients": [
+        {
+          "Name": "Flour",
+          "Quantity": "200",
+          "Unit": "g"
+        },
+        {
+          "Name": "Sugar",
+          "Quantity": "30",
+          "Unit": "g"
+        },
+        {
+          "Name": "Egg",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Kefir",
+          "Quantity": "200",
+          "Unit": "ml"
+        },
+        {
+          "Name": "Baking powder",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Baking soda",
+          "Quantity": "5",
+          "Unit": "g"
+        },
+        {
+          "Name": "Orange zest",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Butter",
+          "Quantity": "50",
+          "Unit": "g"
+        },
+        {
+          "Name": "Kiwi",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Melon",
+          "Quantity": "1",
+          "Unit": "pc"
+        },
+        {
+          "Name": "Raspberry jam",
+          "Quantity": "30",
+          "Unit": "g"
+        },
+        {
+          "Name": "Greek yogurt",
+          "Quantity": "20",
+          "Unit": "g"
+        }
+      ],
+      "Instructions": "I put the flour, sugar, baking powder, baking soda, and grated orange zest in a bowl and mixed them together.\nIn a separate bowl, I mixed the egg with the kefir.\nIn the final step, I combined the above mixtures, resulting in a soft and airy batter.\n\nI prepared a pan, threw in the butter, and let it melt. Then, using a teaspoon, I scooped small dollops of batter into the pan.\n\nWhen they started to form bubbles on the top, I flipped them with a spatula. I continued this process until I used up all the batter.\n\nThese are mini pancakes with fruit and yogurt! We ate them with kiwi, melon, yogurt, and raspberry jam, but they pair wonderfully with any fruit, maple syrup, caramel, or chocolate topping. The possibilities are endless. I can't wait to make them again next time!"
+    }
+  ]
+}

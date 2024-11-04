@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/categoriesFragment">
+
+    <fragment
+        android:id="@+id/categoriesFragment"
+        android:name="com.example.licentaincercarea1.CategoriesFragment"
+        android:label="categoriesFragment"
+        tools:layout="@layout/categories_fragment" >
+        <action
+            android:id="@+id/action_categoriesFragment_to_reteteFragment"
+            app:destination="@id/reteteFragment" />
+        <action
+            android:id="@+id/action_categoriesFragment_to_manifesting"
+            app:destination="@id/manifesting" />
+    </fragment>
+    <fragment
+        android:id="@+id/advanced"
+        android:name="com.example.licentaincercarea1.AdvancedSearchFragment"
+        android:label="advanced"
+        tools:layout="@layout/advanced_search_fragment">
+        <action
+            android:id="@+id/action_advanced_to_generatorFragment"
+            app:destination="@id/generatorFragment" />
+        <action
+            android:id="@+id/action_advanced_to_intrebariFragment"
+            app:destination="@id/intrebariFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/manifesting"
+        android:name="com.example.licentaincercarea1.SearchFragment"
+        android:label="manifesting"
+        tools:layout="@layout/search_fragment"/>
+    <fragment
+        android:id="@+id/retetaFragment"
+        android:name="com.example.licentaincercarea1.RetetaFragment"
+        android:label="reteta"
+        tools:layout="@layout/reteta" />
+
+    <fragment
+        android:id="@+id/generatorFragment"
+        android:name="com.example.licentaincercarea1.GeneratorFragment1"
+        android:label="GeneratorFragment"
+        tools:layout="@layout/generator_fragment1">
+        <action
+            android:id="@+id/action_generatorFragment_to_generatorFragment2"
+            app:destination="@id/generatorFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/generatorFragment2"
+        android:name="com.example.licentaincercarea1.GeneratorFragment2"
+        android:label="GeneratorFragment2"
+        tools:layout="@layout/generator_fragment2"/>
+    <fragment
+        android:id="@+id/intrebariFragment"
+        android:name="com.example.licentaincercarea1.IntrebariFragment"
+        android:label="IntrebariFragment"
+        tools:layout="@layout/intrebari_fragment">
+        <action
+            android:id="@+id/action_intrebariFragment_to_rezultatFragment"
+            app:destination="@id/rezultatFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/rezultatFragment"
+        android:name="com.example.licentaincercarea1.RezultatFragment"
+        android:label="RezultatFragment"
+        tools:layout="@layout/rezultat_fragment"/>
+    <fragment
+        android:id="@+id/reteteFragment"
+        android:name="com.example.licentaincercarea1.ReteteFragment"
+        android:label="retete_fragment"
+        tools:layout="@layout/retete_fragment" >
+        <action
+            android:id="@+id/action_reteteFragment_to_manifesting"
+            app:destination="@id/manifesting" />
+        <action
+            android:id="@+id/action_reteteFragment_to_retetaFragment"
+            app:destination="@id/retetaFragment" />
+    </fragment>
+</navigation>

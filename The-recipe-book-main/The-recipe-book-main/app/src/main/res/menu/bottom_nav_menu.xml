@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@id/categoriesFragment"
+        android:icon="@drawable/categorii"
+        android:title="@string/categorii"/>
+    <item
+        android:id="@id/advanced"
+        android:icon="@drawable/retete"
+        android:title="Genereaza retete" />
+
+</menu>

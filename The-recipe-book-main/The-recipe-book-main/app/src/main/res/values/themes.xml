@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Licentaincercarea1" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:layoutDirection">ltr</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:button">@style/ButtonStyle</item>
+    </style>
+
+    <style name="ButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">#4CAF50</item> <!-- Fundal verde deschis -->
+        <item name="android:textColor">#FFFFFF</item> <!-- Text alb -->
+        <item name="android:padding">12dp</item> <!-- Spațiu interior -->
+        <item name="android:minHeight">48dp</item> <!-- Înălțime minimă pentru buton -->
+        <item name="android:minWidth">64dp</item> <!-- Lățime minimă pentru buton -->
+        <item name="android:layout_margin">8dp</item> <!-- Spațiu exterior -->
+        <item name="android:background">?attr/selectableItemBackground</item> <!-- Ripple effect standard -->
+        <item name="android:fontFamily">@font/roboto_slab_thin</item> <!-- Font modern și curat -->
+        <item name="android:elevation">6dp</item> <!-- Adaugă efect de umbră -->
+        <item name="cornerRadius">12dp</item> <!-- Colțuri rotunjite pentru un design prietenos -->
+    </style>
+</resources>

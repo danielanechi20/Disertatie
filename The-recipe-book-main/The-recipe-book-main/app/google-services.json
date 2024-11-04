@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125847385009",
+    "project_id": "licentaincercarea1",
+    "storage_bucket": "licentaincercarea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125847385009:android:a3f325085538bc56dcc390",
+        "android_client_info": {
+          "package_name": "com.example.licentaincercarea1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125847385009-de5hbj6ial4q4paq5r82bjk3o92aq147.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw2Vh_iwO713MFzk-TOZ3MGzLHY_hJigc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125847385009-de5hbj6ial4q4paq5r82bjk3o92aq147.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
