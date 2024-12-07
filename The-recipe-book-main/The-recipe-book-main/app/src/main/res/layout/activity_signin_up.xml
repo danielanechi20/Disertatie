@@ -139,4 +139,17 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginTop="32dp" />
+
+    <Button
+        android:id="@+id/buttonSamsungFit"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:backgroundTint="#4285F4"
+        android:text="Continue with SamsungFit"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:elevation="6dp"
+        app:layout_constraintTop_toBottomOf="@id/buttonGoogleSignIn"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
 </androidx.constraintlayout.widget.ConstraintLayout>

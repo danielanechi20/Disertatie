@@ -1,15 +1,16 @@
 package com.example.licentaincercarea1
 
 import android.annotation.SuppressLint
+import android.content.DialogInterface
 import android.content.Intent
+import android.content.pm.PackageManager
+import android.net.Uri
 import android.os.Bundle
 import android.util.Log
-import android.widget.Button
-import android.widget.EditText
-import android.widget.TextView
-import android.widget.Toast
+import android.widget.*
 import androidx.activity.OnBackPressedCallback
 import androidx.activity.result.contract.ActivityResultContracts
+import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.android.gms.auth.api.signin.GoogleSignInClient
@@ -36,6 +37,7 @@ class SignInUpActivity : AppCompatActivity() {
     private lateinit var googleSignInButton: Button
     private lateinit var forgotPasswordTextView: TextView
     private lateinit var toggleSignInSignUpTextView: TextView
+    private lateinit var buttonSamsungFit: Button
 
     companion object {
         private const val TAG = "SignInUpActivity"
@@ -58,7 +60,7 @@ class SignInUpActivity : AppCompatActivity() {
 
         // Configure Google Sign-In
         val gso = GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
-            .requestIdToken("125847385009-de5hbj6ial4q4paq5r82bjk3o92aq147.apps.googleusercontent.com") // Replace with your actual client ID
+            .requestIdToken("125847385009-de5hbj6ial4q4paq5r82bjk3o92aq147.apps.googleusercontent.com")
             .requestEmail()
             .build()
         googleSignInClient = GoogleSignIn.getClient(this, gso)
@@ -74,6 +76,7 @@ class SignInUpActivity : AppCompatActivity() {
         googleSignInButton = findViewById(R.id.buttonGoogleSignIn)
         forgotPasswordTextView = findViewById(R.id.textForgotPassword)
         toggleSignInSignUpTextView = findViewById(R.id.textToggleSignInSignUp)
+        buttonSamsungFit = findViewById(R.id.buttonSamsungFit) // Samsung Health Connect Button
 
         // Set onClick listeners
         signInButton.setOnClickListener { signInWithEmail() }
@@ -81,6 +84,11 @@ class SignInUpActivity : AppCompatActivity() {
         googleSignInButton.setOnClickListener { signInWithGoogle() }
         forgotPasswordTextView.setOnClickListener { resetPassword() }
         toggleSignInSignUpTextView.setOnClickListener { toggleSignInSignUp() }
+
+        // Samsung Health Connect button listener
+        buttonSamsungFit.setOnClickListener {
+           // Start Samsung Health connection process
+        }
 
         // Hide signUpButton initially (default is Sign In mode)
         signUpButton.visibility = Button.GONE
@@ -147,7 +155,6 @@ class SignInUpActivity : AppCompatActivity() {
     }
 
     private fun signInWithGoogle() {
-        // Ensure user can pick an account even if already signed in
         googleSignInClient.signOut()
         val signInIntent = googleSignInClient.signInIntent
         signInLauncher.launch(signInIntent)
@@ -214,6 +221,8 @@ class SignInUpActivity : AppCompatActivity() {
             finish()
         }
     }
+
+    // Samsung Health Integration
 
 
 }

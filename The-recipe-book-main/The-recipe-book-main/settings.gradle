@@ -2,7 +2,7 @@ pluginManagement {
     repositories {
         google()
         mavenCentral()
-        maven { url 'https://jitpack.io' }  // Ensure JitPack is included here
+        maven { url 'https://jitpack.io' }  // Ensure JitPack is included her
     }
 }
 

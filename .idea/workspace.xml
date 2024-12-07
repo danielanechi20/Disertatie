@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4543228b-57e4-40b3-8965-c4856b300d91" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/The-recipe-book-main/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/The-recipe-book-main/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-recipe-book-main/The-recipe-book-main/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/The-recipe-book-main/The-recipe-book-main/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-recipe-book-main/The-recipe-book-main/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/The-recipe-book-main/The-recipe-book-main/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-recipe-book-main/The-recipe-book-main/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/The-recipe-book-main/The-recipe-book-main/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-recipe-book-main/The-recipe-book-main/app/src/main/java/com/example/licentaincercarea1/AddCaloriesActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/The-recipe-book-main/The-recipe-book-main/app/src/main/java/com/example/licentaincercarea1/AddCaloriesActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-recipe-book-main/The-recipe-book-main/app/src/main/java/com/example/licentaincercarea1/MyAccountActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/The-recipe-book-main/The-recipe-book-main/app/src/main/java/com/example/licentaincercarea1/MyAccountActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-recipe-book-main/The-recipe-book-main/app/src/main/java/com/example/licentaincercarea1/SignInUpActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/The-recipe-book-main/The-recipe-book-main/app/src/main/java/com/example/licentaincercarea1/SignInUpActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-recipe-book-main/The-recipe-book-main/app/src/main/res/layout/activity_signin_up.xml" beforeDir="false" afterPath="$PROJECT_DIR$/The-recipe-book-main/The-recipe-book-main/app/src/main/res/layout/activity_signin_up.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2okc5V6XMZj7zzS33nNDzU4koWx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "working",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4543228b-57e4-40b3-8965-c4856b300d91" name="Changes" comment="" />
+      <created>1731416830150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731416830150</updated>
+    </task>
+    <servers />
+  </component>
+</project>

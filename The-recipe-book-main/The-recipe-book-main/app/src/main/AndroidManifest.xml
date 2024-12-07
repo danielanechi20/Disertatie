@@ -12,9 +12,19 @@
     <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_CALORIES" />
+    <uses-permission android:name="android.permission.WRITE_CALORIES" />
+    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY"/>
+    <uses-permission android:name="com.samsung.android.providers.context.permission.READ_USE_APP_FEATURE_SURVEY"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
 
 
-
+    <queries>
+        <package android:name="com.sec.android.app.shealth" />
+    </queries>
 
     <application
         android:enableOnBackInvokedCallback="true"
@@ -52,7 +62,20 @@
         <activity
             android:name=".FragmentBase"
             android:exported="true" />
-        <activity android:name=".SignInUpActivity" />
+
+        <activity android:name=".SignInUpActivity"
+            android:exported="true">
+            <meta-data
+                android:name="com.samsung.android.health.permission.read"
+                android:value="com.samsung.health.calories.consumed" />
+            <meta-data
+                android:name="com.samsung.android.health.permission.write"
+                android:value="com.samsung.health.calories.consumed" />
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
         <activity android:name=".MyAccountActivity" />
         <activity android:name=".AddCaloriesActivity" />
         <activity android:name=".ViewCalorieHistoryActivity" />
